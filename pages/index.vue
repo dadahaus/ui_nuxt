@@ -1,7 +1,5 @@
 <template>
-  <div>
-    <h1>hi there</h1>
+  <div class="max-w-5xl mx-auto py-16 px-4 dark">
+    <Colors title="Colors"> </Colors>
   </div>
-  <AppAlert> This is an auto-imported component. </AppAlert>
-  <a href="/about">to about</a>
 </template>
