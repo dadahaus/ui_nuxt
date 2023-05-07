@@ -14,5 +14,5 @@
     </p>
   </div>
 
-  <h1><button type="submit">this is buttons</button></h1>
+  <Palette />
 </template>

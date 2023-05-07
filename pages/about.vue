@@ -7,9 +7,8 @@
   <p
     class="max-w-screen-sm mb-3 text-lg text-gray-500 md:text-xl dark:text-gray-400"
   >
-    The border radius was set to a maximum of 50% as to convey the playfulness
-    of the brand. However, for the contact form fields that was significantly
-    reduced
+    This is a design system based on modern practices. It was designed for the
+    brand Chimichurry, an argentinean alpargatas brand
   </p>
 
   <h1><button type="submit">this is buttons</button></h1>
