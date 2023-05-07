@@ -1,6 +1,6 @@
 export default {
   // Defaults options
-  darkMode: 'class',
+  // darkMode: 'class',
   theme: {},
   plugins: [],
   content: [

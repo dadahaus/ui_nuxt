@@ -1,5 +1,5 @@
 <template>
-  <nav class="flex items-center justify-between flex-wrap bg-black p-6">
+  <nav class="flex items-center justify-between flex-wrap bg-black p-6 pl-20">
     <div class="flex items-center flex-shrink-0 text-white mr-6">
       <!-- <svg
         class="fill-current h-8 w-8 mr-2"
@@ -46,9 +46,21 @@
         </a>
         <a
           href="/buttons"
-          class="block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white"
+          class="block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white mr-4"
         >
           Buttons
+        </a>
+        <a
+          href="/buttons"
+          class="block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white mr-4"
+        >
+          Icons
+        </a>
+        <a
+          href="/buttons"
+          class="block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white mr-4"
+        >
+          Typography
         </a>
       </div>
       <!-- <div>
