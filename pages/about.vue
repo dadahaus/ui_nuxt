@@ -1,7 +1,7 @@
 <template>
   <div>
-    <h1>hi there</h1>
+    <h1>about page</h1>
   </div>
   <AppAlert> This is an auto-imported component. </AppAlert>
-  <a href="/about">to about</a>
+  <a href="/">go to home</a>
 </template>
