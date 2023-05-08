@@ -5,13 +5,11 @@
     >
       Socials
     </h1>
-    <p
-      class="max-w-screen-sm mb-3 text-lg text-gray-500 md:text-xl dark:text-gray-400"
-    >
+    <LargeCopy title="Welcome">
       The social media icons were set to stand on their own apart from the
       buttons, keeping their border radius unchanged and spacing according to
       view width and height.
-    </p>
+    </LargeCopy>
   </div>
 
   <div class="flex flex-col items-start gap-8">

@@ -10,7 +10,7 @@
     </select>
   </div>
 
-  <div class="pl-20 flex flex-col justify-evenly h-screen gap-8">
+  <div class="pl-20 pr-20 flex flex-col justify-evenly h-auto gap-8">
     <slot />
   </div>
 

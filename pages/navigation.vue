@@ -5,13 +5,11 @@
     >
       Playful + Classic
     </h1>
-    <p
-      class="max-w-[41%] mb-3 text-lg text-gray-500 md:text-xl dark:text-gray-400"
-    >
+    <LargeCopy title="Welcome">
       The border radius was set to a maximum of 50% as to convey the playfulness
       of the brand. However, for the contact form fields that was significantly
       reduced
-    </p>
+    </LargeCopy>
   </div>
 
   <Navigation />

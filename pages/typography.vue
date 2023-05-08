@@ -5,13 +5,11 @@
     >
       X-height and combination rules
     </h1>
-    <p
-      class="max-w-screen-sm mb-3 text-lg text-gray-500 md:text-xl dark:text-gray-400"
-    >
+    <LargeCopy title="Welcome">
       In searching for the perfect balance, it was decided to combine two sans
       serif typefaces with similar x height, which is a common principle for
       pairing typefaces.
-    </p>
+    </LargeCopy>
   </div>
   <div class="text-gray-400 flex flex-col gap-3" style="font-family: Visby">
     <h2>(Heading - h1, h2, h3)</h2>
