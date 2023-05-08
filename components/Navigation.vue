@@ -32,7 +32,7 @@
       vs
     </h1>
 
-    <div class="flex flex-row">
+    <div class="flex flex-wrap">
       <div class="mb-4 mr-8">
         <label
           class="block text-gray-700 text-sm font-bold mb-2"
