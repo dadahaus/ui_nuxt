@@ -10,7 +10,7 @@
     >
       In searching for the perfect balance, it was decided to combine two sans
       serif typefaces with similar x height, which is a common principle for
-      pairing typefaces
+      pairing typefaces.
     </p>
   </div>
   <div class="text-gray-400 flex flex-col gap-3" style="font-family: Visby">
