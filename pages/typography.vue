@@ -1,16 +1,55 @@
 <template>
-  <h1
-    class="mb-4 text-4xl font-extrabold leading-none tracking-tight text-gray-400 md:text-5xl lg:text-6xl dark:text-gray-700"
-  >
-    Playful + Classic
-  </h1>
-  <p
-    class="max-w-screen-sm mb-3 text-lg text-gray-500 md:text-xl dark:text-gray-400"
-  >
-    The border radius was set to a maximum of 50% as to convey the playfulness
-    of the brand. However, for the contact form fields that was significantly
-    reduced
-  </p>
-
-  <h1><button type="submit">this is buttons</button></h1>
+  <div>
+    <h1
+      class="mb-4 text-4xl font-extrabold leading-none tracking-tight text-gray-400 md:text-5xl lg:text-6xl dark:text-gray-700"
+    >
+      X-height and combination rules
+    </h1>
+    <p
+      class="max-w-screen-sm mb-3 text-lg text-gray-500 md:text-xl dark:text-gray-400"
+    >
+      In searching for the perfect balance, it was decided to combine two sans
+      serif typefaces with similar x height, which is a common principle for
+      pairing typefaces
+    </p>
+  </div>
+  <div style="font-family: Visby">
+    <h2>(Heading - h1, h2, h3)</h2>
+    <h1
+      class="text-4xl font-extrabold leading-none tracking-tight text-gray-400 md:text-3xl lg:text-4xl dark:text-gray-700"
+    >
+      Visby
+    </h1>
+    <h2 class="max-w-[31%]">
+      <span class="uppercase"
+        >a b c d e f g h i j k l m n o p q r s t u v w x y z</span
+      >
+      a b c d e f g h i j k l m n o p q r s t u v w x y z 0123456789
+    </h2>
+  </div>
+  <div>
+    <h2>(Heading - h1, h2, h3)</h2>
+    <h1
+      class="text-4xl leading-none tracking-tight text-gray-400 md:text-3xl lg:text-4xl dark:text-gray-700"
+    >
+      Interstate
+    </h1>
+    <h2 class="max-w-[31%]">
+      <span class="uppercase"
+        >a b c d e f g h i j k l m n o p q r s t u v w x y z</span
+      >
+      a b c d e f g h i j k l m n o p q r s t u v w x y z 0123456789
+    </h2>
+  </div>
 </template>
+
+<style>
+@font-face {
+  font-family: Visby;
+  src: url(../assets/fonts/visby/VisbyBold.otf);
+}
+@font-face {
+  font-family: Interstate;
+  src: url(../assets/fonts/interstate_sv/interstate-bold-cond.otf);
+}
+</style>
