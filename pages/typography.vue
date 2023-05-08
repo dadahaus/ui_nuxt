@@ -16,7 +16,7 @@
   <div style="font-family: Visby">
     <h2>(Heading - h1, h2, h3)</h2>
     <h1
-      class="text-8xl font-extrabold leading-none tracking-tight text-gray-400 md:text-6xl lg:text-7xl dark:text-gray-700"
+      class="text-5xl md:text-7xl lg:text-9xl font-extrabold leading-none tracking-tight text-gray-400 dark:text-gray-700"
     >
       Visby
     </h1>
@@ -30,7 +30,7 @@
   <div style="font-family: Interstate">
     <h2>(Heading - h1, h2, h3)</h2>
     <h1
-      class="text-4xl leading-none tracking-tight text-gray-400 md:text-3xl lg:text-4xl dark:text-gray-700"
+      class="text-2xl md:text-3xl lg:text-5xl leading-none tracking-tight text-gray-400 dark:text-gray-700"
     >
       Interstate
     </h1>
