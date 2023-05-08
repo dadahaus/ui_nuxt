@@ -16,7 +16,7 @@
   <div style="font-family: Visby">
     <h2>(Heading - h1, h2, h3)</h2>
     <h1
-      class="text-4xl font-extrabold leading-none tracking-tight text-gray-400 md:text-3xl lg:text-4xl dark:text-gray-700"
+      class="text-8xl font-extrabold leading-none tracking-tight text-gray-400 md:text-6xl lg:text-7xl dark:text-gray-700"
     >
       Visby
     </h1>
@@ -27,7 +27,7 @@
       a b c d e f g h i j k l m n o p q r s t u v w x y z 0123456789
     </h2>
   </div>
-  <div>
+  <div style="font-family: Interstate">
     <h2>(Heading - h1, h2, h3)</h2>
     <h1
       class="text-4xl leading-none tracking-tight text-gray-400 md:text-3xl lg:text-4xl dark:text-gray-700"
@@ -47,9 +47,7 @@
 @font-face {
   font-family: Visby;
   src: url(../assets/fonts/visby/VisbyBold.otf);
-}
-@font-face {
   font-family: Interstate;
-  src: url(../assets/fonts/interstate_sv/interstate-bold-cond.otf);
+  src: url(../assets/fonts/interstate_sv/Interstate-Regular-Font.ttf);
 }
 </style>
