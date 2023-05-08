@@ -1,18 +1,28 @@
 <template>
   <div class="flex flex-col basis-1/4 justify-evenly">
     <div class="flex flex-wrap flex-row">
-      <button class="w-36 h-8 bg-teal-500 rounded-full mr-4 mb-4">
-        SHOP NOW
-      </button>
       <button
-        class="text-sky-800 w-36 h-8 blue bg-yellow-200 rounded-full mr-4 mb-4"
+        style="background-color: var(--color-primary)"
+        class="w-36 h-8 rounded-full mr-4 mb-4"
       >
         SHOP NOW
       </button>
-      <button class="w-36 h-8 bg-pink-300 text-sky-800 rounded-full mr-4 mb-4">
+      <button
+        style="background-color: var(--color-secondary); color: darkblue"
+        class="w-36 h-8 blue bg-yellow-200 rounded-full mr-4 mb-4"
+      >
         SHOP NOW
       </button>
-      <button class="w-36 h-8 bg-teal-500 rounded-full mr-4 mb-4">
+      <button
+        style="background-color: var(--color-secondary-one)"
+        class="w-36 h-8 bg-pink-300 rounded-full mr-4 mb-4"
+      >
+        SHOP NOW
+      </button>
+      <button
+        style="background-color: var(--color-secondary-two)"
+        class="w-36 h-8 bg-teal-500 rounded-full mr-4 mb-4"
+      >
         SHOP NOW
       </button>
     </div>
@@ -37,7 +47,10 @@
             type="text"
             placeholder="Your email here"
           />
-          <button class="w-32 h-10 bg-teal-500 rounded-md mr-4">
+          <button
+            style="background-color: var(--color-primary)"
+            class="w-32 h-10 rounded-md mr-4"
+          >
             subscribe
           </button>
         </div>

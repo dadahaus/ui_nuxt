@@ -27,5 +27,5 @@
 
 <style>
 @import url("assets/css/index.css");
-@import url("assets/css/index.css");
+@import url("assets/css/globals.css");
 </style>
