@@ -5,7 +5,7 @@
     well respected practices in UX. The main aspects of it revolve around the
     palette, this one in particular being an earthly/pastel one.
   </LargeCopy>
-  <div class="pr-24 flex flex-row basis-1/2">
+  <div class="pr-24 flex flex-row h-[32rem]">
     <img class="basis-1/3" src="../img/1.png" alt="" />
   </div>
 </template>
