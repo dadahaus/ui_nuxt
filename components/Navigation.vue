@@ -14,7 +14,7 @@
         SHOP NOW
       </button>
       <button
-        style="background-color: var(--color-secondary-one)"
+        style="background-color: var(--color-secondary-one); color: darkblue"
         class="w-36 h-8 bg-pink-300 rounded-full mr-4 mb-4"
       >
         SHOP NOW

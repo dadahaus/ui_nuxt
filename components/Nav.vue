@@ -45,19 +45,13 @@
           Palette
         </a>
         <a
-          href="/buttons"
-          class="block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white mr-4"
-        >
-          Buttons
-        </a>
-        <a
-          href="/buttons"
+          href="/icons"
           class="block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white mr-4"
         >
           Icons
         </a>
         <a
-          href="/buttons"
+          href="/typography"
           class="block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white mr-4"
         >
           Typography
