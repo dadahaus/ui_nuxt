@@ -1,6 +1,6 @@
 <template>
   <div
-    class="max-w-screen-sm mb-3 text-lg text-gray-500 md:text-xl dark:text-gray-400"
+    class="max-w-screen-sm m-3 text-lg text-gray-500 md:text-xl dark:text-gray-400"
   >
     <slot />
   </div>
