@@ -1,7 +1,10 @@
 <template>
-  <div class="max-w-5xl mx-auto py-16 px-4">
-    <Colors title="Colors">
-      <button class="w-24 h-8 bg-green-500 rounded-md">click here</button>
-    </Colors>
+  <div>
+    <LargeCopy title="Welcome"
+      >This is a tailored Design System for the argentinean brand Chimmy Churry.
+      It encompasses <b>playful and modern</b> elements while still displaying
+      well respected practices in UX. The main aspects of it revolve around the
+      palette, this one in particular being an earthly/pastel one.
+    </LargeCopy>
   </div>
 </template>

@@ -10,7 +10,8 @@
     >
       Erring on the safe side, one never knows when a third palette might be
       needed. A complementary triad of pastels may come in handy in brochures
-      and graphic campaigns
+      and graphic campaigns. Hence, a primary, teal color was used in just about
+      all the elements leaving the rest for then the context made it necessary.
     </p>
   </div>
 
