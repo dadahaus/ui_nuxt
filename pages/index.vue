@@ -6,6 +6,11 @@
     palette, this one in particular being an earthly/pastel one.
   </LargeCopy>
   <div class="pr-24 flex flex-row h-[35rem]">
-    <img style="opacity: 0.5; object-fit: contain" src="../img/1.png" alt="" />
+    <img
+      class="transition-all opacity-50 hover:opacity-80"
+      style="object-fit: contain"
+      src="../img/1.png"
+      alt=""
+    />
   </div>
 </template>
