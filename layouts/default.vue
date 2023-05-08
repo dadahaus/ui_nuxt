@@ -1,22 +1,19 @@
 <template>
   <Nav />
-  <div class="dark:bg-gray-800 dark:text-gray-200">
-    <p class="p-4 pb-2">
-      <select
-        v-model="$colorMode.preference"
-        class="border w-24 h-8 dark:bg-gray-900 dark:text-white dark:border-gray-700"
-      >
+  <div class="pl-20">
+    <div>
+      <h1>Color mode: {{ $colorMode.value }}</h1>
+      <select v-model="$colorMode.preference">
         <option value="system">System</option>
         <option value="light">Light</option>
         <option value="dark">Dark</option>
+        <option value="sepia">Sepia</option>
       </select>
-    </p>
-    <nuxt class="mx-auto p-4" />
+    </div>
+    <slot />
   </div>
-  <div
-    class="relative flex min-h-screen flex-col justify-evenly overflow-hidden bg-gray-50 py-6 sm:py-12 p-20"
-  >
-    <!-- <img
+
+  <!-- <img
       src="../img/gradient.gif"
       alt=""
       class="absolute top-1/2 left-1/2 max-w-none -translate-x-1/2 -translate-y-1/2"
@@ -24,7 +21,24 @@
       height="180"
       z-index="-100"
     /> -->
-    <slot />
-    <!-- <AppFooter /> -->
-  </div>
+  <!-- <AppFooter /> -->
 </template>
+
+<style>
+body {
+  background-color: #fff;
+  color: rgba(0, 0, 0, 0.8);
+}
+.dark-mode body {
+  background-color: #091a28;
+  color: #ebf4f1;
+}
+.dark-mode select {
+  background-color: #091a28;
+  color: #ebf4f1;
+}
+.sepia-mode body {
+  background-color: #f1e7d0;
+  color: #433422;
+}
+</style>
