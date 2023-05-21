@@ -1,5 +1,5 @@
 <template>
-  <div class="flex flex-col md:basis-[45%] lg:basis-[45%] justify-evenly">
+  <div class="flex flex-col md:basis-[45%] lg:basis-[45%] justify-start">
     <div class="flex flex-wrap flex-row">
       <button
         style="background-color: var(--color-primary)"

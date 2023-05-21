@@ -1,6 +1,6 @@
 <template>
   <div
-    class="flex flex-col md:basis-[45%] lg:basis-[45%] justify-evenly h-auto gap-8"
+    class="flex flex-col md:basis-[45%] lg:basis-[45%] justify-start h-auto gap-8"
   >
     <LargeCopy title="large copy"> Navigation </LargeCopy>
 

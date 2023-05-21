@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <div
-      class="smallcopy text-sm md:text-lg lg:text-5xl md:w-[70%] lg:w-[50%] text-gray-500 dark:text-gray-400"
+      class="smallcopy text-xl md:text-3xl lg:text-5xl md:w-[70%] lg:w-[50%] text-gray-500 dark:text-gray-400"
     >
       <slot />
     </div>
@@ -15,9 +15,9 @@
 .smallcopy::before {
   content: "";
   position: absolute;
-  background-color: beige;
-  width: 30%;
-  height: 3px;
+  background-color: gray;
+  width: 7ch;
+  height: 6%;
   top: -15%;
 }
 </style>

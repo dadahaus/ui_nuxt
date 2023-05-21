@@ -10,7 +10,9 @@
     </select>
   </div>
 
-  <div class="pl-10 pr-10 flex flex-wrap justify-evenly h-auto gap-8">
+  <div
+    class="md:h-screen mt-[15%] text-left pl-10 pr-10 flex flex-wrap space-between h-auto gap-8"
+  >
     <slot />
   </div>
 
