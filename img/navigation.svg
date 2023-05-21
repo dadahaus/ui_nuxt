@@ -1,0 +1,15 @@
+<svg id="Component_35_2" data-name="Component 35 – 2" xmlns="http://www.w3.org/2000/svg" width="161.449" height="119.797" viewBox="0 0 161.449 119.797">
+  <g id="Ellipse_13" data-name="Ellipse 13" transform="translate(46.488) rotate(25)" fill="none" stroke="#9a9a9a" stroke-width="8">
+    <ellipse cx="19" cy="55" rx="19" ry="55" stroke="none"/>
+    <ellipse cx="19" cy="55" rx="15" ry="51" fill="none"/>
+  </g>
+  <g id="Ellipse_16" data-name="Ellipse 16" transform="translate(127.009 4.044) rotate(25)" fill="none" stroke="#9a9a9a" stroke-width="8">
+    <ellipse cx="19" cy="55" rx="19" ry="55" stroke="none"/>
+    <ellipse cx="19" cy="55" rx="15" ry="51" fill="none"/>
+  </g>
+  <g id="Ellipse_14" data-name="Ellipse 14" transform="translate(117.313 104.755) rotate(160)" fill="none" stroke="#9a9a9a" stroke-width="8">
+    <ellipse cx="19" cy="55" rx="19" ry="55" stroke="none"/>
+    <ellipse cx="19" cy="55" rx="15" ry="51" fill="none"/>
+  </g>
+  <circle id="Ellipse_15" data-name="Ellipse 15" cx="6" cy="6" r="6" transform="translate(149.449 98.72)" fill="#9a9a9a"/>
+</svg>

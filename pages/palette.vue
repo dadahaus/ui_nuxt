@@ -1,18 +1,14 @@
 <template>
-  <div>
-    <h1
-      class="mb-4 text-4xl font-extrabold leading-none tracking-tight text-gray-400 md:text-5xl lg:text-6xl dark:text-gray-700"
-    >
-      Earth and Pastel Colors
-    </h1>
-    <LargeCopy title="Welcome">
-      Erring on the safe side, one never knows when a third palette might be
-      needed. A complementary triad of pastels may come in handy in brochures
-      and graphic campaigns. Hence, a primary, teal color was used in just about
-      all the elements leaving the rest for whenever the context made it
-      necessary.
-    </LargeCopy>
-  </div>
+  <div class="pl-10 pr-20 flex flex-col justify-evenly h-auto gap-8">
+    <LargeCopy title="large copy"> Navigation </LargeCopy>
 
+    <SmallCopy> Playful+Classic </SmallCopy>
+
+    <Copy>
+      The border radius was set to a maximum of 50% as to convey the playfulness
+      of the brand. However, for the contact form fields that was significantly
+      reduced
+    </Copy>
+  </div>
   <Palette />
 </template>

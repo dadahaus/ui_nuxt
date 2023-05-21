@@ -1,6 +1,6 @@
 <template>
   <Nav />
-  <div class="pl-20 p-4">
+  <div class="pl-10 p-4">
     <h1>Color mode: {{ $colorMode.value }}</h1>
     <select v-model="$colorMode.preference">
       <option value="system">System</option>
@@ -10,7 +10,7 @@
     </select>
   </div>
 
-  <div class="pl-20 pr-20 flex flex-col justify-evenly h-auto gap-8">
+  <div class="pl-10 pr-10 flex flex-wrap justify-evenly h-auto gap-8">
     <slot />
   </div>
 

@@ -1,15 +1,14 @@
 <template>
-  <div>
-    <h1
-      class="mb-4 text-4xl font-extrabold leading-none tracking-tight text-gray-400 md:text-5xl lg:text-6xl dark:text-gray-700"
-    >
-      X-height and combination rules
-    </h1>
-    <LargeCopy title="Welcome">
-      In searching for the perfect balance, it was decided to combine two sans
-      serif typefaces with similar x height, which is a common principle for
-      pairing typefaces.
-    </LargeCopy>
+  <div class="pl-10 pr-20 flex flex-col justify-evenly h-auto gap-8">
+    <LargeCopy title="large copy"> Navigation </LargeCopy>
+
+    <SmallCopy> Playful+Classic </SmallCopy>
+
+    <Copy>
+      The border radius was set to a maximum of 50% as to convey the playfulness
+      of the brand. However, for the contact form fields that was significantly
+      reduced
+    </Copy>
   </div>
   <div class="text-gray-400 flex flex-col gap-3" style="font-family: Visby">
     <h2>(Heading - h1, h2, h3)</h2>
@@ -50,5 +49,7 @@
   src: url(../assets/fonts/visby/VisbyBold.otf);
   font-family: Interstate;
   src: url(../assets/fonts/interstate_sv/Interstate-Regular-Font.ttf);
+  font-family: Regattia;
+  src: url(../assets/fonts/regattia-bold-webfont.woff);
 }
 </style>
