@@ -1,13 +1,17 @@
 <template>
-  <div class="pl-10 pr-20 flex flex-col justify-evenly h-auto gap-8">
-    <LargeCopy title="large copy"> Navigation </LargeCopy>
+  <div
+    class="flex flex-col md:basis-[45%] lg:basis-[45%] justify-start h-auto gap-8"
+  >
+    <LargeCopy title="large copy"> Typography</LargeCopy>
 
-    <SmallCopy> Playful+Classic </SmallCopy>
+    <SmallCopy class="mt-[1ch] md:mt-[4ch]">
+      (Rules of) Type combination
+    </SmallCopy>
 
     <Copy>
-      The border radius was set to a maximum of 50% as to convey the playfulness
-      of the brand. However, for the contact form fields that was significantly
-      reduced
+      In searching for the perfect balance, it was decided to combine two sans
+      serif typefaces with similar x height, which is a common principle for
+      pairing typefaces
     </Copy>
   </div>
   <div class="text-gray-400 flex flex-col gap-3" style="font-family: Visby">
